@@ -5,6 +5,7 @@ This project is an educational implementation of an automated Gmail workflow usi
 
 <img src="./Diagram.png" alt="Workflow Diagram" width="50%" />
 
+
 ## Features
 - **Automated Gmail Monitoring:** Checks your Gmail inbox for new emails using the Gmail API.
 - **Stateful Workflow:** Utilizes LangGraph's state machine to manage the flow between checking emails, drafting responses, and waiting for the next cycle.
