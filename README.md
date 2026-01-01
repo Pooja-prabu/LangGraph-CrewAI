@@ -69,6 +69,7 @@ python main.py
 
 The workflow will check your Gmail inbox, process new emails, and (optionally) draft responses using CrewAI agents.
 
+
 ## Credits & License
 - **CrewAI + LangGraph integration:** [CrewAI Inc GitHub](https://github.com/crewAIInc/crewAI)
 - **CrewAI + LangGraph example:** [CrewAI + LangGraph example](https://github.com/crewAIInc/crewAI-examples/tree/main/CrewAI-LangGraph)
