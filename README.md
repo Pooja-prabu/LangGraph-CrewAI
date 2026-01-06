@@ -31,6 +31,14 @@ LangGraph-CrewAI/
 └── README.md
 ```
 
+## Credits & License
+- **CrewAI + LangGraph integration:** [CrewAI Inc GitHub](https://github.com/crewAIInc/crewAI)
+- **CrewAI + LangGraph example:** [CrewAI + LangGraph example](https://github.com/crewAIInc/crewAI-examples/tree/main/CrewAI-LangGraph)
+- **Workflow inspired by:** [@joaomdmoura](https://x.com/joaomdmoura)
+- **Educational Use:** This project is for educational purposes only.
+- **License:** This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+
+  
 ## Setup Instructions
 
 ### 1. Clone the Repository
@@ -70,9 +78,4 @@ python main.py
 The workflow will check your Gmail inbox, process new emails, and (optionally) draft responses using CrewAI agents.
 
 
-## Credits & License
-- **CrewAI + LangGraph integration:** [CrewAI Inc GitHub](https://github.com/crewAIInc/crewAI)
-- **CrewAI + LangGraph example:** [CrewAI + LangGraph example](https://github.com/crewAIInc/crewAI-examples/tree/main/CrewAI-LangGraph)
-- **Workflow inspired by:** [@joaomdmoura](https://x.com/joaomdmoura)
-- **Educational Use:** This project is for educational purposes only.
-- **License:** This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+
